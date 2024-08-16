@@ -1,10 +1,8 @@
-# Nahhas LMS Website
+# Leamas
 
-This is a Learning Management System (LMS) website built with Next.js. The purpose of this project is to provide a comprehensive platform for online education, tailored for the Syrian community.
-
-## Demo Video
-
-Check out the demo video for this project on YouTube: [Demo Video](https://youtu.be/0g7wvi6tehQ)
+This is a Learning Management System (LMS) website built with Next.js. 
+The purpose of this project is to provide a comprehensive platform for 
+online education.
 
 ---
 
@@ -49,20 +47,8 @@ Check out the demo video for this project on YouTube: [Demo Video](https://youtu
 ### Prerequisites
 Make sure you have the following installed:
 - Node.js
-- npm or yarn
+- npm or yarn or pnpm
 - Git
-
-### Clone the Repository
-To clone the project, run the following command in your terminal:
-
-```bash
-git clone https://github.com/AbdulrahmanNahhas/nahhas-lms.git
-```
-
-### Navigate to the Project Directory
-```bash
-cd nahhas-lms
-```
 
 ### Install Dependencies
 
@@ -130,4 +116,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - 
+see the [LICENSE](https://opensource.org/license/mit) file for details.
